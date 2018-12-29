@@ -1,0 +1,13 @@
+[package]
+name = "ftest"
+version = "0.1.0"
+authors = ["Axylos <robertdraketalley@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+fuse = "*"
+libc = "*"
+time = "*"
+log = "*"
+simple_logger = "*"
+syslog = "*"
